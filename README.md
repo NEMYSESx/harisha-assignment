@@ -19,6 +19,6 @@ Clone or download the main.go file
 Ensure Go is installed on your system
 
 Usage
-bashgo run main.go <json_file_path>
+go run main.go <json_file_path>
 Example
-bashgo run main.go testcase1.json
+go run main.go testcase1.json
